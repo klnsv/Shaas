@@ -1,0 +1,2 @@
+# Shaas
+Shaastra App Frontend
